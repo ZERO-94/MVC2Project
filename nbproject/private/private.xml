@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/servlet/LogoutServlet.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/registration/RegistrationLoginError.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/registration/RegistrationDeleteError.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/servlet/DispatchServlet.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/cart/CartObject.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/registration/RegistrationUpdateError.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/utils/MVC2ProjectConstants.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/registration/RegistrationCreateError.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/filter/DispatcherFilter.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/registration/RegistrationDTO.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/filter/AuthenticationFilter.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/servlet/CreateAccountServlet.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/servlet/DeleteServlet.java</file>
+            <file>file:/D:/Servlet/MVC2Project/web/WEB-INF/siteMaps.properties</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/servlet/DeleteItemFromCartServlet.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/servlet/SearchProductNameServlet.java</file>
+            <file>file:/D:/Servlet/MVC2Project/web/NotFoundError.html</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/product/ProductDTO.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/servlet/SearchLastnameServlet.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/registration/RegistrationDAO.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/cart/CartItemAddError.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/product/ProductDAO.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/utils/DBHelper.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/servlet/GetAllProductsServlet.java</file>
+            <file>file:/D:/Servlet/MVC2Project/web/search.jsp</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/listener/MVC2ProjectServletListener.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/servlet/AddItemToCartServlet.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/cart/CartItem.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/servlet/LoginServlet.java</file>
+            <file>file:/D:/Servlet/MVC2Project/src/java/anhtvk/servlet/UpdateServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
