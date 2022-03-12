@@ -5,13 +5,9 @@
  */
 package anhtvk.servlet;
 
-import anhtvk.registration.RegistrationDAO;
-import anhtvk.registration.RegistrationUpdateError;
 import anhtvk.utils.MVC2ProjectConstants;
 import java.io.IOException;
-import java.sql.SQLException;
 import java.util.Properties;
-import javax.naming.NamingException;
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;

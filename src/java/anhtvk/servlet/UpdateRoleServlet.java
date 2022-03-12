@@ -9,7 +9,6 @@ import anhtvk.registration.RegistrationDAO;
 import anhtvk.registration.RegistrationUpdateError;
 import anhtvk.utils.MVC2ProjectConstants;
 import java.io.IOException;
-import java.io.PrintWriter;
 import java.sql.SQLException;
 import java.util.Properties;
 import javax.naming.NamingException;
