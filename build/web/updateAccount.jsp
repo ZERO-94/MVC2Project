@@ -35,7 +35,7 @@
         <h2>I want to change my password</h2>
         <c:set var="changePasswordError" value="${requestScope.CHANGEPASSWORDERRORS}"/>
         <form action="updateAccountAction" method="POST">
-            Input your old password: <input type="password" name="txtOldPassword" value="" />(e.g. 6 - 30 chars)<br/>
+            Input your old password: <input type="password" name="txtOldPassword" value="" /><br/>
             <c:if test="${not empty changePasswordError}">
                 <font color="red">${changePasswordError.invalidOldPassword}</font><br/>
             </c:if>

@@ -27,7 +27,7 @@
             <input type="reset" value="Reset" />
         </form>
         <br/>
-        <a href="shoppingAction">Book Store</a><br/>
+        <a href="shoppingPage">Book Store</a><br/>
         <a href="createAccountPage">Sign Up</a>
     </body>
 </html>
